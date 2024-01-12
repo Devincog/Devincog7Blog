@@ -30,8 +30,8 @@ twitter_username: Devincog7
 github_username:  Devincog
 
 # Build settings
-# theme: jekflix
-remote_theme: jekflix
+theme: jekflix
+# remote_theme: jekflix
 plugins:
   - jekyll-feed
 
