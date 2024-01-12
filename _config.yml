@@ -30,10 +30,11 @@ twitter_username: Devincog7
 github_username:  Zenin797
 
 # Build settings
-theme: jekflix
-# remote_theme: jekflix
+# theme: jekflix
+remote_theme: thiagorossener/jekflix-template
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
