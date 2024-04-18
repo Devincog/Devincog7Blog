@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A New Year, A new Beginning"
+title:  "A New Year, A new Beginning, Right"
 categories: Philosophy 
 ---
 
-# A New Year, A new Beginning, Right?
+
